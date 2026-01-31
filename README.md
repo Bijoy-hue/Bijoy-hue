@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm a Software Developer & Astronomy Enthusiast 🚀
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Second+Year+CS+Student+at+Ulster+University;Aspiring+Software+Developer;Astronomy+%26+Space+Enthusiast;Learning+DSA+%F0%9F%9A%80" />
+</p>
   
 </p>
 
@@ -8,13 +10,17 @@
 
 ## 👨‍🎓 About Me
 
-<img align="right" width="280" src="https://cdn-icons-png.flaticon.com/512/201/201623.png" />
+
+
+
 
 * 🎓 **Second-year student** at **Ulster University**
 * 💻 Passionate about **Software Development**
 * 🌌 Deep interest in **Astronomy & Space Science**
 * 📚 Currently studying **Data Structures & Algorithms (DSA)**
 * 🧠 Love solving problems and building things from scratch
+
+
 
 ---
 
